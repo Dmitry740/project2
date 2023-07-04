@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"chrono": "cpp",
+		"xstring": "cpp",
+		"sstream": "cpp",
+		"iostream": "cpp"
+	}
+}
